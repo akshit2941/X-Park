@@ -2,7 +2,7 @@
 
 Welcome to the Smart Parking App project on GitHub! This project aims to revolutionize the way we experience urban parking by providing a user-friendly mobile app and a powerful web portal for efficient parking management. Below, you'll find a detailed README to help you understand the project's goals, features, and how to get started.
 
-Project Overview
+## Project Overview
 
 Problem Statement
 
